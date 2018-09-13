@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>control_bg_img.jpg</file>
+    <file>countdown_icon.png</file>
+    <file>countdown_logo.png</file>
+    <file>delete.png</file>
+    <file>delete_red.png</file>
+    <file>fullscreen.png</file>
+    <file>fullscreen_red.png</file>
+    <file>play_pause.png</file>
+    <file>play_pause_red.png</file>
+    <file>reset.png</file>
+    <file>reset_red.png</file>
+  </qresource>
+</RCC>
